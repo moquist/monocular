@@ -1,5 +1,7 @@
 # Monocular
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/d/df/Monocular_Mount_Diablo.jpg" alt="monocular" title="monocular" align="right" width="120" />
+
 A Clojure library designed to make creating searches easy. The name *Monocular*
 was chosen as it's the stereotypical tool seen used by pirates searching the
 open sea for vessels to plunder.
